@@ -3,7 +3,7 @@ import "./ProductSummary.scss"
 import { AiFillDollarCircle } from "react-icons/ai";
 import { BsCart4, BsCartX } from "react-icons/bs";
 import { BiCategory } from "react-icons/bi";
-import { HiMenuAlt3 } from 'react-icons/hi';
+//import { HiMenuAlt3 } from 'react-icons/hi';
 import InfoBox from '../../infoBox/InfoBox';
 import { useDispatch, useSelector } from 'react-redux';
 import { CALC_CATEGORY, CALC_OUTOFSTOCK, CALC_STORE_VALUE, selectOutOfStock, selectTotalStoreValue, selectCategory } from './../../../redux/features/product/productSlice';
