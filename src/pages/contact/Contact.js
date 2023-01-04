@@ -33,7 +33,7 @@ const Contact = () => {
     <div className="contact">
       <h3 className="--mt">Contact Us </h3>
       <div className="section">
-        <form onSubmit={sendEmail}>
+        <form onSubmit={sendEmail} data-netlify="true">
           <Card cardclass="card">
             <label>Subject</label>
             <input

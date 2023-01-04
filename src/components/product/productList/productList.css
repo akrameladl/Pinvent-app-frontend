@@ -51,9 +51,3 @@
   cursor: pointer;
   background-color: rgba(31, 147, 255, 0.3);
 }/*# sourceMappingURL=productList.css.map */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
